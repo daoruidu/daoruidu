@@ -1,80 +1,150 @@
 # 👋 Hi, I'm Daorui Du | 你好，我是 Daorui
 
-### 🚀 Java Backend Engineer | Java 后端开发工程师
+### 💻 Software Engineer | 软件开发工程师
 
-专注于 **Java 后端开发、微服务架构、分布式系统、数据库性能优化与云基础设施**，同时持续探索 **AI 大模型集成与智能化应用开发**。
+**Java Backend · C# Desktop · Python · Distributed Systems · Cloud Infrastructure · AI**
 
-Passionate about building scalable, reliable, and high-performance backend systems, with a focus on microservices, distributed architecture, database optimization, and AI integration.
+专注于软件开发与系统架构，主要涉及 **Java 后端、Spring Cloud 微服务、C# Windows 桌面应用、Python 自动化、数据库性能优化及云基础设施**，同时持续探索 AI 大模型在实际软件开发中的应用。
+
+Software engineer working across Java backend systems, C# Windows desktop applications, Python automation, databases, and cloud infrastructure. Interested in building reliable, efficient software and integrating AI into real-world applications.
 
 ---
 
 ## 🛠️ 技术栈 | Tech Stack
 
-### ☕ 后端开发 | Backend Development
+### ☕ Java 后端与微服务 | Java Backend & Microservices
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Dubbo](https://img.shields.io/badge/Apache_Dubbo-0080FF?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-- Java / Spring Boot / Spring Cloud
-- Spring Cloud Gateway / Apache Dubbo
-- RESTful API / 微服务架构 / 分布式系统
-- Python / C# / JavaScript
+- Spring Boot / Spring Cloud / Spring Cloud Gateway
+- Apache Dubbo / RESTful API
+- Microservices Architecture / Distributed Systems
+- API Design / System Integration
+- Backend Performance Optimization
 
-### 🗄️ 数据库 | Databases
+### 🖥️ C# 与 Windows 桌面开发 | C# & Desktop Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-- MySQL 性能调优 / Performance Optimization
-- MongoDB 数据处理 / Data Processing
-- Redis 缓存设计 / Caching
+- C# / .NET
+- Windows Forms (WinForms)
+- Windows Presentation Foundation (WPF)
+- Windows Desktop Application Development
+- Desktop UI Development / Business Applications
 
-### 🐳 云基础设施 | Cloud & Infrastructure
+### 🐍 Python 与其他语言 | Python & Other Languages
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-- Docker / Linux / Nginx / OpenResty
-- Lua / WAF / Web Security
-- 反向代理 / 负载均衡 / 服务部署
-- Reverse Proxy / Load Balancing / Deployment
+- Python Scripting / Automation
+- Data Processing / Database Operations
+- JavaScript Development
+- Lua Scripting / OpenResty Integration
+
+### 🗄️ 数据库与性能优化 | Databases & Performance
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
+- MySQL Query & Performance Optimization
+- MongoDB Data Processing
+- Redis Caching
+- Database Indexing & Query Analysis
+- Large-scale Data Processing
+
+### ☁️ 云基础设施与应用安全 | Cloud & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![OpenResty](https://img.shields.io/badge/OpenResty-00A86B?style=for-the-badge&logoColor=white)
+
+- Docker / Linux Server Administration
+- Nginx / OpenResty / Lua
+- Reverse Proxy & Load Balancing
+- Web Application Firewall (WAF)
+- Deployment & Infrastructure Optimization
+
+### 🤖 AI 与开发工具 | AI & Developer Tools
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- LLM API Integration
+- AI-assisted Software Engineering
+- AI Development Tools & Automation
+- Developer Productivity & Workflow Optimization
 
 ---
 
-## 🔭 目前关注 | Current Focus
+## 🔭 技术方向 | Current Focus
 
-- 🏗️ **微服务架构** — Microservices & Distributed Systems
-- ⚡ **性能优化** — Database & Backend Performance
-- 🛡️ **应用安全** — OpenResty, Lua & Web Security
-- 🤖 **AI 工程化** — LLM Integration & AI-assisted Development
-- ☁️ **云原生技术** — Cloud Infrastructure & Automation
+| 方向 / Area | 关注内容 / Focus |
+|---|---|
+| ☕ Java Backend | 微服务、分布式架构、高性能后端 |
+| 🖥️ C# Desktop | WinForms、WPF、Windows 应用开发 |
+| 🐍 Python | 自动化、脚本开发、数据处理 |
+| 🗄️ Database | MySQL、MongoDB、Redis、性能优化 |
+| 🛡️ Infrastructure | Docker、OpenResty、Lua、WAF |
+| 🤖 AI Engineering | LLM 集成、AI 辅助开发、自动化 |
+
+---
+
+## 🚀 项目与开源 | Projects & Open Source
+
+我关注实用、可靠、易于维护的软件，计划持续整理和分享后端开发、桌面工具、数据库及基础设施相关的技术实践。
+
+I aim to share practical engineering work, useful tools, and technical explorations across backend development, desktop software, databases, and infrastructure.
+
+**项目展示持续更新中 / Project showcase coming soon.**
 
 ---
 
 ## 📊 GitHub 数据 | GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daoruidu&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daoruidu&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daoruidu&show_icons=true&theme=tokyonight&hide_border=true)
 
-> 统计卡片依赖第三方服务，偶尔可能无法加载。
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daoruidu&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 📫 联系我 | Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-daoruidu-181717?style=flat-square&logo=github)](https://github.com/daoruidu)
+[![GitHub](https://img.shields.io/badge/GitHub-daoruidu-181717?style=for-the-badge&logo=github)](https://github.com/daoruidu)
 
-欢迎交流 Java 后端、分布式架构、数据库优化与 AI 应用开发。
+欢迎交流：
 
-Feel free to connect and discuss backend engineering, distributed systems, databases, and AI applications.
+- Java 后端开发与分布式系统
+- C# WinForms / WPF 桌面应用
+- Python 自动化与开发工具
+- 数据库性能优化
+- 云基础设施与应用安全
+- AI 大模型与软件工程
+
+Feel free to connect and discuss software engineering, backend systems, desktop applications, infrastructure, and AI development.
 
 ---
 
-⭐ **持续学习，持续构建有价值的软件。**
+### 💡 Engineering Philosophy | 开发理念
 
-*Keep learning. Keep building. Keep improving.*
+**持续学习，重视工程质量，构建真正解决问题的软件。**
+
+*Keep learning. Focus on engineering quality. Build software that solves real problems.*
+
+⭐ Thanks for visiting my profile!
