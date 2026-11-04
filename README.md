@@ -2,9 +2,9 @@
 
 ### 💻 Software Engineer | 软件开发工程师
 
-**Java Backend · C# WinForms / WPF · Python · Distributed Systems · Cloud Infrastructure · AI**
+**Java Backend · C# WinForms / WPF · Python · Microservices · Cloud Infrastructure**
 
-专注于 **Java 后端与微服务、C# Windows 桌面应用、Python 自动化、数据库性能优化及云基础设施**，持续探索 AI 在实际软件开发中的应用。
+专注于 **Java 后端与微服务、C# Windows 桌面应用、Python 自动化、数据库性能优化及云基础设施**。日常使用 AI 编程工具辅助开发、调试和优化代码，关注开发效率与工程质量。
 
 I build backend services, Windows desktop applications and automation tools using Java, C# and Python. My interests include distributed systems, performance and infrastructure.
 
@@ -79,9 +79,9 @@ Docker · Linux · Nginx · OpenResty · Lua · WAF · Reverse Proxy · Load Bal
 
 ## 📫 联系与交流 | Connect
 
-欢迎交流 Java、C#、Python、数据库优化和 AI 应用开发。
+欢迎交流 Java 后端、C# 桌面开发、Python 自动化、数据库优化和 AI 辅助编程实践。
 
-Open to discussions about backend engineering, desktop software, databases and AI development.
+Open to discussions about backend engineering, desktop software, databases, and AI-assisted development workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-daoruidu-181717?style=flat-square&logo=github)](https://github.com/daoruidu)
 
