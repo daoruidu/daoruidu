@@ -10,6 +10,22 @@ Software engineer working across Java backend systems, C# Windows desktop applic
 
 ---
 
+## 🚀 精选项目 | Featured Projects
+
+### 🎬 [拾影 | Shiying Video Downloader](https://github.com/daoruidu/shiying-video-downloader)
+
+基于 **C#、WPF、.NET、SQLite、WebView2** 开发的 Windows 桌面视频下载管理器。
+
+支持抖音、快手双平台，提供任务队列、下载历史、取消及重试等功能。
+
+A Windows desktop video download manager built with C#, WPF, .NET, SQLite, and WebView2.
+
+**当前版本 | Latest Version:** v0.1.1 Preview
+
+[📦 下载 Windows 版本 | Download](https://github.com/daoruidu/shiying-video-downloader/releases/tag/v0.1.1)
+
+[📂 查看项目 | View Repository](https://github.com/daoruidu/shiying-video-downloader)
+
 ## 🛠️ 技术栈 | Tech Stack
 
 ### ☕ Java 后端与微服务 | Java Backend & Microservices
