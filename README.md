@@ -8,7 +8,15 @@
 
 I build backend services, Windows desktop applications and automation tools using Java, C# and Python. My interests include distributed systems, performance and infrastructure.
 
-## 🚀 精选项目 | Featured Project
+## 🚀 精选项目 | Featured Projects
+
+### 🐬 [MySQL 慢日志对比器 · Slow Log Diff](https://github.com/daoruidu/mysql-slow-log-diff)
+
+在浏览器本地对比两份 MySQL 慢日志，按 SQL 模板查看优化前后的耗时、记录次数和扫描行数。
+
+Compare two MySQL slow query logs in your browser and see how latency, log counts, and rows examined changed for each SQL template.
+
+[🌐 在线试用 / Live Demo](https://daoruidu.github.io/mysql-slow-log-diff/) · [💻 查看源码 / Source](https://github.com/daoruidu/mysql-slow-log-diff)
 
 ### 🎬 [拾影 · Shiying Video Downloader](https://github.com/daoruidu/shiying-video-downloader)
 
