@@ -6,7 +6,7 @@
 
 专注于 **Java 后端与微服务、C# Windows 桌面应用、Python 自动化、数据库性能优化及云基础设施**，持续探索 AI 在实际软件开发中的应用。
 
-I build backend services, Windows desktop applications and automation tools using Java, C# and Python. My interests include distributed systems, performance, infrastructure and practical AI integrations.
+I build backend services, Windows desktop applications and automation tools using Java, C# and Python. My interests include distributed systems, performance and infrastructure.
 
 ## 🚀 精选项目 | Featured Project
 
@@ -67,10 +67,6 @@ MySQL · MongoDB · Redis · Query Optimization · Data Processing
 
 Docker · Linux · Nginx · OpenResty · Lua · WAF · Reverse Proxy · Load Balancing
 
-### 🤖 AI 工程化 | AI Engineering
-
-LLM API Integration · AI-assisted Development · Developer Tools & Automation
-
 ---
 
 ## 🔭 关注方向 | Current Focus
@@ -79,7 +75,7 @@ LLM API Integration · AI-assisted Development · Developer Tools & Automation
 - 🖥️ 实用 Windows 桌面工具 / Practical Windows Desktop Tools
 - ⚡ 数据库与系统性能优化 / Database & System Performance
 - 🛡️ OpenResty 与应用安全 / OpenResty & Application Security
-- 🤖 AI 集成与开发效率 / AI Integration & Developer Productivity
+- 🤖 开发效率 / Developer Productivity
 
 ## 📫 联系与交流 | Connect
 
